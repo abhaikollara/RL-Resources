@@ -15,4 +15,4 @@
 - [Reinforcement Learning: An Introduction (Sutton and Barto)](http://incompleteideas.net/book/the-book-2nd.html)
 
 ## Papers
-- [Deep Q Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+- [Deep Q Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)

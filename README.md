@@ -14,6 +14,9 @@
 
 ## Books
 - [Reinforcement Learning: An Introduction (Sutton and Barto)](http://incompleteideas.net/book/the-book-2nd.html)
+- [Optimizing Expectations: John Schulman Thesis](http://joschu.net/docs/thesis.pdf)
 
 ## Papers
 - [Deep Q Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+- [Proximal Policy Optimization(PPO)](https://arxiv.org/pdf/1707.06347.pdf)
+- [Asychronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)

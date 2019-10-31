@@ -21,3 +21,6 @@ _Lots more to add_. [See here](https://spinningup.openai.com/en/latest/spinningu
 - [Deep Q Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 - [Proximal Policy Optimization(PPO)](https://arxiv.org/pdf/1707.06347.pdf)
 - [Asychronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
+
+## Implementations
+- [RL Adventures](https://github.com/higgsfield/RL-Adventure-2)
